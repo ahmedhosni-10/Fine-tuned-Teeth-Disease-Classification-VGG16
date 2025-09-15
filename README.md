@@ -79,7 +79,7 @@ The fine-tuned model demonstrates excellent and robust performance, achieving th
 
 ## 🚀 How To Use
 
-1.  **Navigate** to the deployed application URL: [https://teeth-disease-classification-vgg16-fine-tuned-app-7xfh3yt7k8ac.streamlit.app/ ]
+1.  **Navigate** to the deployed application URL: [https://teeth-disease-app-clean-viqhl3czgibgtcqcnevxjn.streamlit.app/]
 2.  **Upload an Image:** Click on the "Browse files" button to upload an image of a tooth.
 3.  **Get the Prediction:** The model will automatically process the image and display the predicted disease category along with a confidence score.
 
